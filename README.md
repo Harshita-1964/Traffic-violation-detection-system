@@ -1,4 +1,4 @@
-🚗 Traffic Violation Detection System 🚦
+#🚗 Traffic Violation Detection System 🚦
 This project detects traffic violations such as speeding, red light running, and illegal turns using YOLOv3 and OpenCV. The system processes live CCTV footage with over 90% accuracy, enhancing road safety and reducing traffic congestion.
 
 
