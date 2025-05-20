@@ -11,25 +11,8 @@ Vehicle Line Crossing: Detects vehicles crossing a predefined line and counts vi
 YOLOv3: Object detection for recognizing vehicles like cars, motorbikes, buses, and trucks.
 OpenCV: Handles image processing for detecting objects, tracking positions, and monitoring speed.
 Python: Core programming language for integrating detection, violation checks, and vehicle tracking.
-🚀 How to Run
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/traffic-violation-detection.git
-cd traffic-violation-detection
-Install Dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Download YOLOv3 Weights: Download YOLOv3 weights from here and place them in the models/ folder.
-
-Run the Detection Script:
-
-bash
-Copy code
-python detect.py --input data/Accident-1.mp4 --output results/output_video.mp4
 📁 Project Structure
 bash
 Copy code
