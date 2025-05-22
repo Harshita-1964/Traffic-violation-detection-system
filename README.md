@@ -18,10 +18,15 @@ Python: Core programming language for integrating detection, violation checks, a
 bash
 Copy code
 ├── src/                # Source code
+
 ├── models/             # YOLOv3 weights and config files
+
 ├── data/               # Input videos/images for testing
+
 ├── results/            # Output videos/images with detections
+
 ├── notebooks/          # Jupyter notebooks for experimentation
+
 └── README.md           # Project documentation
 📊 Sample Output
 Motorbike Accident Detection:
