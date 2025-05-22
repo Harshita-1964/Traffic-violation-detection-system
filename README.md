@@ -17,6 +17,7 @@ Python: Core programming language for integrating detection, violation checks, a
 📁 Project Structure
 bash
 Copy code
+
 ├── src/                # Source code
 
 ├── models/             # YOLOv3 weights and config files
