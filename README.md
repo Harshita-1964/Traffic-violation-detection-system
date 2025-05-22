@@ -15,8 +15,6 @@ Python: Core programming language for integrating detection, violation checks, a
 
 
 📁 Project Structure
-bash
-Copy code
 
 ├── src/                # Source code
 
@@ -29,6 +27,7 @@ Copy code
 ├── notebooks/          # Jupyter notebooks for experimentation
 
 └── README.md           # Project documentation
+
 📊 Sample Output
 Motorbike Accident Detection:
 
